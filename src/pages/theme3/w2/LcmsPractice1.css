@@ -1,0 +1,30 @@
+.theme2W2ComponentTitle {
+    margin-left: 18px;
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.CSRResultWindow {
+    height: 350px!important;
+}
+
+.CSRUploadDragger .anticon.anticon-paper-clip {
+    color: rgb(25, 103, 210) !important;
+}
+
+.CSRUploadDragger .ant-upload-list-item-name {
+    color: rgb(25, 103, 210) !important;
+}
+
+.CSRUploadDragger .ant-tooltip-content {
+    display: none;
+}
+
+.CSRUploadDragger .ant-tooltip-arrow {
+    display: none;
+}
+
+.CSRUploadDragger .ant-upload-wrapper .ant-upload-list .ant-upload-list-item {
+    background-color: white !important;
+    cursor: default !important;
+}
