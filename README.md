@@ -46,6 +46,6 @@
 
 ### 백엔드 통신:
 
-- CLOVA Studio API: CLOVA AI 모델을 사용하기 위한 용도.
+- [CLOVA Studio API](https://api.ncloud-docs.com/docs/ai-naver-clovastudio-completion): CLOVA AI 모델을 사용하기 위한 용도.
 - axios: HTTP 클라이언트 라이브러리
 - Postman: API 테스팅
